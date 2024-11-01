@@ -1,0 +1,9 @@
+#featured { height: 200px; overflow: hidden; }
+
+.slider-controls { float: left; }
+.sticky-clear { clear: both; }
+
+#slider-nav { float: right;}
+#slider-nav a { border: 1px solid #DDDDDD; background-color: #EEEEEE; text-decoration: none; margin: 0 1px; padding: 3px 5px; font-size: 9px; }
+#slider-nav a.activeSlide { background-color: #DDDDDD; }
+#slider-nav a:focus { outline: none; }
